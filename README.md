@@ -6,4 +6,4 @@ Descripcion: En esta practica se explicaran las instalaciones de los programas N
 
 Pagina principal: http://alu0100498820.github.io
 
-Enlace Repositorio: https://github.com/alu0100498820/alu0100498820.github.io
+Enlace Repositorio: https://github.com/alu0100498820/P0SYTW
